@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>                                                                                                                                                                                                                                                                     <!DOCTYPE>
+<html>
+<head>
+   <title> company</title>
+<link href="Esther.css" rel="stylesheet">
+</head>
+<body>
+<img src="Essy.jpg" rel="Essy.jpg"
+  <h1 class="green>"
+
+  <h1>MAKING AVOCADO JELLY
+  </h1>
+<div><h1>avocado jelly for skin dideases</h1>
+  <p> we are esema company, making jelly from avocado.Avocado is a fruit.Avocado jelly is very important to our body because it is natural and lacks any chemical.<br><br>
+Avocado jelly is made using avocado, coconut and honey.<br><br><br>
+Some of the importance of avocado jelly are as follows;</div>
+
+<ul><li>prevent skin damage.</li>
+                                                      <li> soothen skin conditions</li>
+                                                      <li> minimizes breakouts</li>
+                                                       <li>improves overal skinhealth</li>
+                                                     </ul><br><br>
+<div>The main aim of establishing this project is to ensure that people in the community.
+In present day, people are really suffering from skin diseases due to much usage of jellys that contai chemicals.
+Therefore this avocado jelly prevents them from skin disease
+<h1>Types of diseases solved by avocado jelly</h1></div>
+<li>eczema</li>
+<li>psorasis</li><li>skin rashes</li>
+
+<br><br>
+<nav><a href="https://societyofwomencoders.org/">SOWCoers</a></nav>
+Avocado jelly contain natural nutrient such as;
+<li>vitamin E</li>
+<li>potassium</li>
+<li>lecithin</li>
+<div class="contact=form">
+  <h2 class="contact-title">contact us</h2>
+  <p>Email</p>
+  <input>
+  <p>message</P>
+    <textar></textarea>
+    <button type="botton"class="submit"
+    onclick="alert['your form is submitted']">sent</button>
+  </div>
+  <br><br><br>
+  <footer>
+    <a href="Home.html">Home</a>
+    <a href="Aboutme.html">Aboutme</a><a href="contact me.html"contact me</a>
+      <a href="contact me.html">conactme</a>
+    </footer>
+</p>
+</body>
+
+
+
+
+
+
+</html>
